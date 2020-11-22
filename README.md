@@ -1,0 +1,1 @@
+# Elite Dangerous Settings Storage
