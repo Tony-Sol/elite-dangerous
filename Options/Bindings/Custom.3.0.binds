@@ -138,7 +138,7 @@
 	<ThrottleRange Value="Bindings_ThrottleForewardOnly" />
 	<ToggleReverseThrottleInput>
 		<Primary Device="{NoDevice}" Key="" />
-		<Secondary Device="LogitechExtreme3DPro" Key="Joy_11" />
+		<Secondary Device="LogitechExtreme3DPro" Key="Joy_12" />
 		<ToggleOn Value="1" />
 	</ToggleReverseThrottleInput>
 	<ForwardKey>
@@ -268,11 +268,11 @@
 	<ToggleFlightAssist>
 		<Primary Device="Keyboard" Key="Key_Z" />
 		<Secondary Device="{NoDevice}" Key="" />
-		<ToggleOn Value="0" />
+		<ToggleOn Value="1" />
 	</ToggleFlightAssist>
 	<UseBoostJuice>
 		<Primary Device="Keyboard" Key="Key_Tab" />
-		<Secondary Device="LogitechExtreme3DPro" Key="Joy_12" />
+		<Secondary Device="LogitechExtreme3DPro" Key="Joy_11" />
 	</UseBoostJuice>
 	<HyperSuperCombination>
 		<Primary Device="{NoDevice}" Key="" />

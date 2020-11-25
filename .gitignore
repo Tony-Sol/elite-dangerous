@@ -3,6 +3,7 @@
 
 *.log
 *.DS_Store
+*.backup
 
 !README.md
 ![Oo]ptions/
