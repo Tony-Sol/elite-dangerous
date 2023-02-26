@@ -3,7 +3,7 @@
 	<ScreenWidth>2560</ScreenWidth>
 	<ScreenHeight>1440</ScreenHeight>
 	<VSync>true</VSync>
-	<FullScreen>1</FullScreen>
+	<FullScreen>2</FullScreen>
 	<PresentInterval>1</PresentInterval>
 	<Adapter>0</Adapter>
 	<Monitor>0</Monitor>
